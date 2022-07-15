@@ -14,3 +14,4 @@ fast discord gen w/ httpx module + hcaptcha bypass
 * .har file included for development purposes
 
 ### Under development
+* Not working as of now, still reworking some stuffs
